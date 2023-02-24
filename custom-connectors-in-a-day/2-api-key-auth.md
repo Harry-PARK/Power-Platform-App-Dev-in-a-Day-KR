@@ -30,6 +30,7 @@
         && popd
     ```
     
+
 3. 아래 명령어를 실행시켜 GitHub 코드스페이스에서 API 앱을 실행시킬 수 있게끔 `local.settings.json` 파일을 생성합니다.
 
     ```bash
