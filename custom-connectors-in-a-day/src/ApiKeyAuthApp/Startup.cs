@@ -24,6 +24,7 @@ namespace ApiKeyAuthApp
 
             base.ConfigureAppConfiguration(builder);
         }
+        
 
         public override void Configure(IFunctionsHostBuilder builder)
         {
