@@ -64,6 +64,7 @@ namespace BasicAuthApp
             var response = JsonConvert.DeserializeObject<AtlassianUser>(result);
 
             return new OkObjectResult(response);
+            
         }
     }
 }
